@@ -1,0 +1,1 @@
+﻿.\Packages\OpenCover.4.6.519\tools\OpenCover.Console.exe "-target:.\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe" "-targetargs:.\Demo.Tests\bin\Debug\Demo.Tests.dll" "-register:user"
