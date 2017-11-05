@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+#SonarQube temp
+.sonarqube
+NUnitResults.xml
+opencover.xml
