@@ -34,14 +34,7 @@
         }
         
         
-        
-        
-        
-        
-        public static int Add2(this int a, int b)
-        {
-            return a + b;
-        }
+     
        
     }
 }
