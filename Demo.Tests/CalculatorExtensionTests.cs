@@ -16,12 +16,13 @@ namespace Demo.Tests
         {
             Assert.AreEqual(a + b, a.Add(b));
         }
-
+/*
         [Test]
         [TestCase(100,1111)]
         public void SubtractingDecimalsShouldWOrk(decimal a, decimal b)
         {
             Assert.AreEqual(a.Subtract(b), a - b);
         }
+*/        
     }
 }
