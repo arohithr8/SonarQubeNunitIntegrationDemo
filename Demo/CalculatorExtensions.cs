@@ -34,7 +34,7 @@
         }
         
         
-        public static int Add(this int a, int b)
+        public static int Add2(this int a, int b)
         {
             return a + b;
         }
