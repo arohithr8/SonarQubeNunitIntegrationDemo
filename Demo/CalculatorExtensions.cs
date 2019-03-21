@@ -34,7 +34,23 @@
         }
         
         
+        
+        
+        
+        
         public static int Add2(this int a, int b)
+        {
+            return a + b;
+        }
+        public static int Add3(this int a, int b)
+        {
+            return a + b;
+        }
+        public static int Add4(this int a, int b)
+        {
+            return a + b;
+        }
+        public static int Add5(this int a, int b)
         {
             return a + b;
         }
