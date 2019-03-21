@@ -32,5 +32,11 @@
             // TEST SHOULD FAIL
             return a + b;
         }
+        
+        
+        public static int Add(this int a, int b)
+        {
+            return a + b;
+        }
     }
 }
