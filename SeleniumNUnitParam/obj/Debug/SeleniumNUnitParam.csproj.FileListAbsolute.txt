@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\geckodriver.exe
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\SeleniumNUnitParam.dll.config
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\SeleniumNUnitParam.dll
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\SeleniumNUnitParam.pdb
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\TechTalk.SpecFlow.dll
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\WebDriver.dll
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\bin\Debug\WebDriver.xml
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\obj\Debug\SeleniumNUnitParam.csprojAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\obj\Debug\SeleniumNUnitParam.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\obj\Debug\SeleniumNUnitParam.csproj.CopyComplete
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\obj\Debug\SeleniumNUnitParam.dll
+C:\Program Files (x86)\Jenkins\workspace\DotNetFreestyle\SeleniumNUnitParam\obj\Debug\SeleniumNUnitParam.pdb
